@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+'Para saber el volúmen de un vaso, por favor digita su altura'
+5
+1
+1
+a
+4
+1
+26
+'Ahora digita su diámetro'
+5
+1
+1
+d
+6
+3
+1
+r
+3
+d/2
+1
+v
+14
+3.1416*(r^3)*a
+2
+vt
+1
+v
+4
+1
+30
+'El volumen del vaso', '=', vt
+1

@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Digita tu edad a continuación'
+5
+1
+1
+e
+7
+0
+1
+13
+e<18 or e>=60
+4
+1
+29
+'No aplica la oferta para tí'
+13
+7
+0
+1
+5
+e>=60
+4
+1
+42
+'Aplicas a la oferta al ser menor de edad'
+13
+4
+1
+57
+'Aplicas a la oferta al ser un adulto de la tercera edad'
+13
+13
+1

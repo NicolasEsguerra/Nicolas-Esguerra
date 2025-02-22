@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+98
+'Convertidor de dolares a pesos colombianos. Por favor escriba la cantidad de dólares a convertir'
+5
+1
+1
+d
+6
+1
+2
+pc
+9
+4073.77*d
+4
+1
+63
+d, '(Dólar/es estadounidense)', '=', pc ,'(Peso/s colombianos)'
+1

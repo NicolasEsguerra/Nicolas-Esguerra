@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+79
+'Digite el precio de una entrada para niños al ingresar al zoológico zoologico'
+5
+1
+2
+vn
+4
+1
+81
+'Digite el precio de una entrada para adultos al ingresar al zoológico zoologico'
+5
+1
+2
+va
+4
+1
+100
+'Digite el precio de una entrada para adultos de la tercera edad al ingresar al zoológico zoologico'
+5
+1
+2
+vv
+6
+3
+1
+n
+2
+vn
+1
+a
+2
+va
+1
+v
+2
+vv
+6
+3
+3
+vsd
+5
+n+a+v
+1
+d
+8
+vsd*0.20
+2
+vt
+5
+vsd-d
+4
+1
+20
+vsd, '-', d, '=', vt
+1

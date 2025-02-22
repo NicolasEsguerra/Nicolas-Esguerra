@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+188
+'Si quieres convertir grados Celsius (°C) a Fahrenheit (°F) por favor digita el número 1', '/', 'Si quieres convertir grados Fahrenheit (°F) a Celsius (°C) a  por favor digita el número 2'
+5
+1
+1
+N
+7
+0
+1
+3
+N=1
+4
+1
+58
+'Por favor digita el número de grados (°F) para convertir'
+5
+1
+1
+F
+6
+1
+7
+CELSIUS
+10
+(F-32)/1.8
+4
+1
+26
+F, '°F', '=', CELSIUS,'°C'
+13
+4
+1
+58
+'Por favor digita el número de grados (°C) para convertir'
+5
+1
+1
+C
+6
+1
+10
+FAHRENHEIT
+10
+(C*1.8)+32
+4
+1
+29
+C, '°C', '=', FAHRENHEIT,'°F'
+13
+1
