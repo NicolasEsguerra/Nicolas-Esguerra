@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Por favor díganos su nombre'
+5
+1
+1
+n
+4
+1
+30
+'Digite el valor de su compra'
+5
+1
+1
+v
+4
+1
+41
+'Digite el descuento que tiene su compra'
+5
+1
+1
+d
+6
+2
+2
+dt
+9
+(v*d)/100
+2
+tp
+4
+v-dt
+4
+1
+73
+'Hola señor o señora ' ,  n  , ' usted debe pagar '  ,  tp  ,   ' pesos' 
+1

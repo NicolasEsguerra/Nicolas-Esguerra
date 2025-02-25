@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'Por favor digite cuántos ml de perfume va a comprar'
+5
+1
+2
+ml
+6
+3
+1
+c
+7
+ml*4500
+3
+IVA
+6
+c*0.19
+1
+t
+5
+c+IVA
+4
+1
+26
+'Debe pagar ', t, ' pesos'
+1

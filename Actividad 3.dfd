@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'Digite su edad'
+5
+1
+1
+e
+4
+1
+61
+'Digite la cantidad de grados de alcohol que tiene su bebida'
+5
+1
+1
+g
+6
+1
+1
+r
+19
+(((5.6/e)*g)*1.2)/e
+4
+1
+1
+r
+1

@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Ingrese la primera variable'
+5
+1
+2
+va
+4
+1
+29
+'Ingrese la segunda variable'
+5
+1
+2
+vb
+6
+1
+4
+suma
+5
+va+vb
+4
+1
+22
+va, '+', vb, '=', suma
+1

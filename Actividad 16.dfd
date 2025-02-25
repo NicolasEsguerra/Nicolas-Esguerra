@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Digita el valor del producto 1'
+5
+1
+2
+p1
+4
+1
+32
+'Digita el valor del producto 2'
+5
+1
+2
+p2
+7
+0
+1
+5
+p1>p2
+6
+3
+2
+p2
+12
+p2-(p2*0.15)
+2
+p1
+12
+p1+(p1*0.19)
+2
+vt
+5
+p1+p2
+4
+1
+18
+'Debes pagar ', vt
+13
+6
+3
+2
+p1
+12
+p1-(p1*0.15)
+2
+p2
+12
+p2+(p2*0.19)
+2
+vt
+5
+p1+p2
+4
+1
+18
+'Debes pagar ', vt
+13
+1

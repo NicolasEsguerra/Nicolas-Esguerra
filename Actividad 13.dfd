@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Dime tú nombre y tú edad'
+5
+1
+6
+n1, e1
+4
+1
+36
+'Dime el nombre y edad de tú pareja'
+5
+1
+6
+n2, e2
+7
+0
+1
+5
+e1>e2
+4
+1
+81
+n2, ' es mayor que ', n1, ' porque ', n2, ' tiene ', e2,' y ' , n1, ' tiene ', e1
+13
+4
+1
+81
+n1, ' es mayor que ', n2, ' porque ', n1, ' tiene ', e1,' y ' , n2, ' tiene ', e2
+13
+1
