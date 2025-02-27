@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Escribe el valor del producto'
+5
+1
+1
+p
+7
+0
+1
+8
+p<=50000
+7
+0
+1
+21
+p>50000 and p<=100000
+7
+0
+1
+22
+p>100000 and p<=200000
+6
+1
+1
+d
+9
+p-(p*0.2)
+4
+1
+47
+'Tienes un descuento del 20%. Debes pagar $', d
+13
+6
+1
+1
+d
+9
+p-(p*0.1)
+4
+1
+47
+'Tienes un descuento del 10%. Debes pagar $', d
+13
+13
+6
+1
+1
+d
+10
+p-(p*0.05)
+4
+1
+46
+'Tienes un descuento del 5%. Debes pagar $', d
+13
+13
+4
+1
+36
+'No hay descuento. Debes pagar $', p
+13
+1

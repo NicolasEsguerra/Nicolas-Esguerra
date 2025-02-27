@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'¿Eres estudiante?'
+5
+1
+1
+r
+7
+0
+1
+18
+r= 'si' or r= 'Si'
+4
+1
+32
+'Debes pagar un total de $12800'
+13
+6
+1
+1
+v
+17
+12800-(12800*0.3)
+4
+1
+18
+'Debes pagar $', v
+13
+1

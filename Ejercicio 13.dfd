@@ -1,0 +1,162 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Dime: un numero del 1 al 10'
+5
+1
+1
+n
+7
+0
+1
+26
+n= 'un numero del 1 al 10'
+7
+0
+1
+4
+n=10
+7
+0
+1
+3
+n=9
+7
+0
+1
+3
+n=8
+7
+1
+1
+3
+n=7
+4
+1
+22
+'Inténtalo nuevamente'
+13
+7
+0
+1
+3
+n=6
+7
+0
+1
+3
+n=5
+7
+0
+1
+3
+n=4
+7
+0
+1
+3
+n=3
+7
+1
+1
+3
+n=2
+4
+1
+22
+'Inténtalo nuevamente'
+13
+7
+1
+1
+3
+n=1
+4
+1
+22
+'Inténtalo nuevamente'
+13
+7
+0
+1
+5
+n<= 0
+7
+0
+1
+4
+n>10
+4
+1
+22
+'Inténtalo nuevamente'
+13
+4
+1
+34
+'Dije hasta el 10 no hasta el ', n
+13
+13
+4
+1
+33
+'Dije desde el 1 no desde el ', n
+13
+13
+13
+13
+4
+1
+22
+'Inténtalo nuevamente'
+13
+13
+4
+1
+22
+'Inténtalo nuevamente'
+13
+13
+4
+1
+22
+'Inténtalo nuevamente'
+13
+13
+4
+1
+22
+'Inténtalo nuevamente'
+13
+13
+13
+4
+1
+22
+'Inténtalo nuevamente'
+13
+13
+4
+1
+22
+'Inténtalo nuevamente'
+13
+13
+4
+1
+22
+'Inténtalo nuevamente'
+13
+13
+4
+1
+27
+'¡Felicidades! Es correcto'
+13
+1

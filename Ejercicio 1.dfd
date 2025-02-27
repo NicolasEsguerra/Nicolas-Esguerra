@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Indique su nombre por favor'
+5
+1
+1
+n
+4
+1
+34
+'Mencione el valor de su producto'
+5
+1
+1
+p
+6
+1
+1
+v
+10
+p-(p*0.12)
+7
+0
+1
+7
+v>72000
+6
+1
+3
+vce
+7
+v+30000
+4
+1
+78
+'Señor/a ', n, ' debe pagar ', vce, ', esto debido a que debe pagar el envío.'
+13
+4
+1
+57
+'Señor/a ', n, ' debe pagar ', v, '. El envío es gratis.'
+13
+1

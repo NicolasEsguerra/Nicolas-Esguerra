@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'¿Cuánto costó el apartamento?'
+5
+1
+1
+a
+7
+0
+1
+10
+a>=1500000
+4
+1
+39
+'No tienes descuento. Debes pagar $', a
+13
+6
+1
+1
+v
+9
+a-(a*0.1)
+4
+1
+47
+'Tienes un descuento del 10%. Debes pagar $', v
+13
+1

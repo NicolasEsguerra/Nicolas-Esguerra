@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'Escribe tú temperatura corporal'
+5
+1
+1
+t
+7
+0
+1
+6
+t<36.0
+7
+0
+1
+18
+t>=36.0 and t<37.5
+7
+0
+1
+18
+t>=37.5 and t<39.5
+7
+0
+1
+18
+t>=39.5 and t<41.0
+7
+0
+1
+15
+t>=41 and t<=43
+4
+1
+20
+'Estas muerto X___X'
+13
+4
+1
+24
+'Tienes HIPERTERMIA +_+'
+13
+13
+4
+1
+24
+'Tienes FIEBRE ALTA *_*'
+13
+13
+4
+1
+18
+'Tienes FIEBRE :('
+13
+13
+4
+1
+44
+'Tienes una temperatura corporal NORMAL OwO'
+13
+13
+4
+1
+23
+'Tienes HIPOTERMIA X_X'
+13
+1

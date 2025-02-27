@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Menciona una temperatura (°C)'
+5
+1
+1
+t
+7
+0
+1
+13
+t<=0 and t<=3
+7
+0
+1
+14
+t>=4 and t<100
+7
+0
+1
+17
+t>=100 and t<=140
+4
+1
+30
+'Ya no hay agua para evaporar'
+13
+4
+1
+40
+'El agua se encuentra en estado GASEOSO'
+13
+13
+4
+1
+40
+'El agua se encuentra en estado LIQUIDO'
+13
+13
+4
+1
+39
+'El agua se encuentra en estado SOLIDO'
+13
+4
+1
+301
+'ACLARACION: El estado en el que se puede encontrar el agua también depende de la presión atmosférica. Por ejemplo, Caracas está a una altura de 920m y su temperatura de ebullición es de 97,2°C, y en Mont Blanc (Europa) su temperatura de ebullición es de 83°C pues se encuentra a una altura de 4890m.'
+1
