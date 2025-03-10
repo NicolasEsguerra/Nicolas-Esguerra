@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Digita el valor de la compra'
+5
+1
+2
+vc
+4
+1
+56
+'Digita tu sexo. (1) para masculino y (2) para femenino'
+5
+1
+1
+s
+7
+0
+1
+9
+vc>100000
+4
+1
+31
+'Debes pagar un total de $', vc
+13
+7
+0
+1
+3
+s=1
+6
+1
+1
+t
+11
+vc-(vc*0.1)
+4
+1
+51
+'Eres mujer. Por ende debes pagar un total de $', t
+13
+6
+1
+1
+t
+11
+vc-(vc*0.2)
+4
+1
+52
+'Eres hombre. Por ende debes pagar un total de $', t
+13
+13
+1
